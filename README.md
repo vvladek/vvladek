@@ -1,5 +1,4 @@
 ![github-hero](https://github.com/vvladek/vvladek/assets/92429825/7e5abb65-09d0-45f0-a1ad-b3e27b39f9d7)
-
 </br>
 </br>
 <p align="center">
